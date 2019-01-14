@@ -1,0 +1,42 @@
+
+
+Windows IP Configuration
+
+
+PPP adapter _Common_Res_dev-vpn.intra - Go to dev-vpn.intra.rakuten.co.jp instead of dialing directly:
+
+   Connection-specific DNS Suffix  . : db.rakuten.co.jp
+   IPv4 Address. . . . . . . . . . . : 10.9.209.102
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : intra.rakuten.co.jp
+   Link-local IPv6 Address . . . . . : fe80::3059:682e:eea6:f96d%11
+   IPv4 Address. . . . . . . . . . . : 10.13.50.226
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.13.51.254
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2c8f:7f7c:f20d:8708%15
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Tunnel adapter isatap.intra.rakuten.co.jp:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : intra.rakuten.co.jp
+
+Tunnel adapter isatap.db.rakuten.co.jp:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : db.rakuten.co.jp
+
+Tunnel adapter isatap.{18CC270A-1427-48A7-8755-B5D30489F496}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 

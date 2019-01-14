@@ -1,0 +1,45 @@
+
+*Exploring Org*
+
+#+TODO: TODO IN-PROGRESS WAITING DONE
+* Item One
+* Item Two
+** Sub Item One
+***  sub sub item one
+***  sub sub item two
+****  sub sub sub item 
+
+
+* My task
+** TODO task 1 
+   DEADLINE: <2019-01-14 Mon>
+
+ Volume in drive C is OSDisk
+ Volume Serial Number is 02AF-0EA5
+
+ Directory of c:\Users\asela.illayapparachc\git\explore-emacs
+
+| 14/01/2019 | 11:10 | AM | <DIR> | .                 |
+| 14/01/2019 | 11:10 | AM | <DIR> | ..                |
+| 14/01/2019 | 11:12 | AM |   220 | #explore-org.org# |
+| 14/01/2019 | 11:10 | AM |    45 | .#explore-org.org |
+| 14/01/2019 | 10:59 | AM | 12568 | explore-org.html  |
+| 14/01/2019 | 11:10 | AM |   235 | explore-org.org   |
+| 14/01/2019 | 09:58 | AM |   196 | explore-org.org~  |
+| 14/01/2019 | 09:55 | AM |    43 | README.md         |
+|            |       |    | 13307 |                   |
+#+TBLFM: @9$4=vsum(@3$4..@8$4)
+6 File(s)         13,307 bytes
+               2 Dir(s)  13,622,046,720 bytes free
+
+
+|    |   |   |   |
+|----+---+---+---|
+|  6 | b | c | d |
+|----+---+---+---|
+|  6 | 2 | 4 | 5 |
+| 11 | 4 | 3 | 2 |
+| 17 |   |   |   |
+| 17 |   |   |   |
+#+TBLFM: $1=vsum(@3$1..@4$1)
+
