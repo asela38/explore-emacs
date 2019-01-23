@@ -43,6 +43,15 @@
 | 17 |   |   |   |
 #+TBLFM: $1=vsum(@3$1..@4$1)
 
+* Tracking progress                                         :Sample:Features:
+
+** Task [100%]
+   - [X] one
+   - [X] two
+   - [X] three
+   - [X] four
+   
+
 * Portfolio Calculation
 
 |                     | Expected |  SD | C equity | C bond | C equity | Given | My Opinion |
